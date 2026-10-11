@@ -165,5 +165,5 @@ The program prints results for each tested safety factor, displays the best safe
 
 ## Project Notes
 
-This project was developed as an exploration of the relationship between mathematical modelling, feedback control, and numerical optimisation. AI assistance was used during coding and debugging.
+This project was developed as an exploration of the relationship between mathematical modelling, feedback control, and numerical optimisation. AI assistance was used during debugging.
 
